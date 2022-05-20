@@ -1,6 +1,6 @@
 ![Banner](https://pbs.twimg.com/profile_banners/1300612222893330432/1599147530/1500x500)
 ## Hey I'm Jacob 💬
-Hi, I'm Jacob. I'm a Canadian software specialist with a passion for software development and reverse engineering. In my free time, I like to mod games and develop tools. I'm currently a student at Trent University, studying Psychology. I hope to use my skills to help people in some way, whether it be through developing tools or conducting research.
+Hi, I'm Jacob. I'm a Canadian software specialist with a passion for software development and reverse engineering. In my free time, I like to experiment with new technoliges, mod games and develop tools for reverse engineering. I'm currently a student at Trent University, studying Psychology. I hope to use my skills to help people in some way, whether it be through developing tools or conducting research.
 
 If you're interested in learning more about me or my work, feel free to check out my LinkedIn. Thank you for taking the time to read this!
 
