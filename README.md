@@ -1,6 +1,8 @@
 ![Banner](https://pbs.twimg.com/profile_banners/1300612222893330432/1599147530/1500x500)
 ## Hi I'm Jacob! 💬
-I'm a Canadian software specialist with a passion for software development and reverse engineering. In my free time, I like to experiment with new technologies, mod games and, develop tools for reverse engineering. I'm currently pursing a Bachelor of Science in Psychology. It is my hope to develop technologies to allow people to live a better life.
+I'm a Canadian software specialist with a passion for software development and reverse engineering. In my free time, I like to experiment with new technologies, mod games and, develop tools for reverse engineering. 
+
+I am currently pursing a Bachelor of Science in Psychology. It is my hope to develop technologies that help individuals live more meaningful and authentic lives.
 
 If you're interested in learning more about me or my work, feel free to check out my LinkedIn. Thank you!
 
