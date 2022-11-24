@@ -1,17 +1,17 @@
 ![Banner](https://pbs.twimg.com/profile_banners/1300612222893330432/1599147530/1500x500)
 ## Hi I'm Jacob! 💬
-I'm a Canadian software specialist with a passion for software development and reverse engineering. In my free time, I like to experiment with new technologies, mod games and, develop tools for reverse engineering. 
+I'm a Canadian software specialist with a passion for software development, machine learning, and reverse engineering. 
 
 I am currently pursing a Bachelor of Science in Psychology. It is my hope to develop technologies that help individuals live more meaningful and authentic lives.
+
+In my free time, I like to learn with new technologies, experiment with machine learning, mod games and, develop tools for reverse engineering. 
 
 If you're interested in learning more about me or my work, feel free to check out my LinkedIn. Thank you!
 
 -Jacob Persi 
 
 ## ⚡ Technologies
-I am constantly experimenting with new technologies to develop my skills and proficiencies. Over the years I've worked with many different languages, platforms, and frameworks.
-
-Of the technologies I've worked with, these are some I most enjoy:
+I am constantly experimenting with new technologies to develop my skills and proficiencies. Over the years I've worked with many different languages, platforms, and frameworks. Of the technologies I've worked with, these are some I most enjoy:
 
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logoColor=white&logo=.NET)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logoColor=white&logo=Android)
