@@ -10,7 +10,7 @@ Thanks!
 -Jacob 
 
 ## ⚡ Technologies
-I am constantly experimenting with new technologies to develop my skills and proficiencies. Over the years I've worked with many different languages, platforms, and frameworks. Of the technologies I've worked with, these are some I most enjoy:
+I love to explore new technologies and develop my skills. Over the years I've written software across a variety of technologies. Of the technologies I've worked with, these are some of my favorites:
 
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logoColor=white&logo=.NET)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logoColor=white&logo=Android)
