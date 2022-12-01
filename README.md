@@ -2,13 +2,11 @@
 ## Hi I'm Jacob! 💬
 I'm a Canadian software specialist with a passion for software development, machine learning, and reverse engineering. 
 
-I am currently pursing a Bachelor of Science in Psychology. It is my hope to develop technologies that help individuals live more meaningful and authentic lives.
-
 In my free time, I like to learn with new technologies, experiment with machine learning, mod games and, develop tools for reverse engineering. 
 
-If you're interested in learning more about me or my work, feel free to send mea message. 
+If you're interested in learning more about me or my work, feel free to send me a message. 
 
-Thanks for your time!
+Thanks!
 -Jacob 
 
 ## ⚡ Technologies
