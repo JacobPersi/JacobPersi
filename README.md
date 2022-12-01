@@ -6,9 +6,10 @@ I am currently pursing a Bachelor of Science in Psychology. It is my hope to dev
 
 In my free time, I like to learn with new technologies, experiment with machine learning, mod games and, develop tools for reverse engineering. 
 
-If you're interested in learning more about me or my work, feel free to check out my LinkedIn. Thank you!
+If you're interested in learning more about me or my work, feel free to send mea message. 
 
--Jacob Persi 
+Thanks for your time!
+-Jacob 
 
 ## ⚡ Technologies
 I am constantly experimenting with new technologies to develop my skills and proficiencies. Over the years I've worked with many different languages, platforms, and frameworks. Of the technologies I've worked with, these are some I most enjoy:
