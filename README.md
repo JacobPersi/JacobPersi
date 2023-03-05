@@ -8,7 +8,7 @@ Thank you!<br/>
 -Jacob 
 
 ## ⚡ Technologies
-I love to explore technologies and develop my skills. Over the years I've written software using a variety of platforms, packages, and frameworks. Of the technologies I've worked with, these are some of my favorites:
+I love to explore technologies and develop my skills. Over the years I've written software using a variety of platforms, packages, and frameworks. Of the technologies I've worked with, here are some of my favorites:
 
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logoColor=white&logo=.NET)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logoColor=white&logo=Android)
