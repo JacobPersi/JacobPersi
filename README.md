@@ -10,7 +10,7 @@ Thanks,<br/>
 -Jacob 
 
 ## ⚡ Technologies
-I love to explore new technologies and develop my skills. Over the years I've written software across a variety of technologies. Of the technologies I've worked with, these are some of my favorites:
+I love to explore technologies and develop my skills. Over the years I've written software using a variety of platforms, packages, and frameworks. Of the technologies I've worked with, these are some of my favorites:
 
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logoColor=white&logo=.NET)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logoColor=white&logo=Android)
@@ -18,22 +18,15 @@ I love to explore new technologies and develop my skills. Over the years I've wr
 ![C++](https://img.shields.io/badge/-C/C++-00599C?logo=c&style=for-the-badge&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/-C%20Sharp-239120?style=for-the-badge&logoColor=white&logo=C%20Sharp)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logoColor=white&logo=CSS)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logoColor=white&logo=Docker)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logoColor=white&logo=Git)
-![Godot Engine](https://img.shields.io/badge/-Godot%20Engine-478CBF?style=for-the-badge&logoColor=white&logo=Godot%20Engine)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logoColor=white&logo=Google%20Cloud)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logoColor=white&logo=HTML5)
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&logoColor=white&logo=Ionic)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logoColor=white&logo=JavaScript)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logoColor=white&logo=Jira)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logoColor=white&logo=Julia)
-![Juniper Networks](https://img.shields.io/badge/-Juniper%20Networks-84B135?style=for-the-badge&logoColor=white&logo=Juniper%20Networks)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logoColor=white&logo=Kali%20Linux)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logoColor=white&logo=Linux)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logoColor=white&logo=Lua)
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logoColor=white&logo=Microsoft%20Office)
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logoColor=white&logo=Microsoft%20SQL%20Server)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logoColor=white&logo=MongoDB)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&logoColor=white&logo=Nuxt.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logoColor=white&logo=Node.js)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logoColor=white&logo=OpenCV)
