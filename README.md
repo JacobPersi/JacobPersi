@@ -6,7 +6,7 @@ In my free time, I like to learn with new technologies, experiment with machine 
 
 If you're interested in learning more about me or my work, feel free to send me a message. 
 
-Thanks!
+Thanks,<br/>
 -Jacob 
 
 ## ⚡ Technologies
