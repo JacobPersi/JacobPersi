@@ -1,6 +1,7 @@
 ![Banner](https://pbs.twimg.com/profile_banners/1300612222893330432/1599147530/1500x500)
 ## Hi I'm Jacob! 💬
-I'm a Canadian software specialist with a passion for software development, machine learning, and reverse engineering. 
+
+I'm a Canadian software developer with a passion for app development, machine learning, and reverse engineering.
 
 In my free time, I like to learn with new technologies, experiment with machine learning, mod games and, develop tools for reverse engineering.<br/>If you're interested in learning more about me or my work, feel free to send me a message. 
 
