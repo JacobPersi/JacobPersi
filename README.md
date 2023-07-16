@@ -3,13 +3,12 @@
 
 I'm a Canadian software developer with a passion for app development, machine learning, and reverse engineering.
 
-In my free time, I like to learn with new technologies, experiment with machine learning, mod games and, develop tools for reverse engineering.<br/>If you're interested in learning more about me or my work, feel free to send me a message. 
-
-Thank you!<br/>
+In my free time, I enjoy learning new technologies, running machine learning experiments, modding games, and developing tools for reverse engineering.<br/>If you're interested in learning more about me or my work, feel free to reach out!
+<br/>
 -Jacob 
 
 ## ⚡ Technologies
-I love to explore technologies and develop my skills. Over the years I've written software using a variety of platforms, packages, and frameworks. Of the technologies I've worked with, here are some of my favorites:
+I love to explore technologies and develop my skills. Over the years I've written software using a variety of platforms, packages, and frameworks. Here are some of my favorites:
 
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logoColor=white&logo=.NET)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logoColor=white&logo=Android)
